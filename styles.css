@@ -1,0 +1,32 @@
+html {
+     font-family: sans-serif;
+     color: #555   
+}
+
+body {
+    background-color: rgb(255, 248, 240);
+}
+
+.page-title {
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size:36px;
+}
+
+.room-heading {
+    font-family: serif;
+    color: red
+}
+
+.house-items {
+    font-family: "Bitcount Prop Single Ink";
+    font-size: 18px;
+    border-style: solid;
+    border-width: 4px;
+    border-color:rgb(93, 22, 193);
+    border-radius: 10px;
+    padding: 20px;
+    display: inline-block;
+    margin: 4px;
+
+}
